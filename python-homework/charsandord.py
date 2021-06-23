@@ -15,21 +15,22 @@
 # # A fent eméített python file-okat és benne a megoldásodat kérlek a saját selenium-py-peldatar github repo forkodban egy python-homework nevű mappába helyezd el.
 #
 #
-#
 import string
 abc = list(string.ascii_lowercase[0:26])
-#
-ascii = [97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
-# print(ascii)
-# print(abc)
-#
+print(abc)
+
+ascii = []
+for i in abc:
+    ascii.append(ord(i))
+print(ascii)
+
 def pairing(ascii, abc):
     for num, chr in zip(ascii, abc):
         print(num, chr)
 
 pairing(ascii, abc)
 
-# még 10 soronként tördelni kell, de erre nem találtam megoldást
+# még 10 soronként tördelni kell, de még erre sem találtam megoldást
 
 
 # Kriszti
@@ -54,4 +55,23 @@ pairing(ascii, abc)
 
 # print(chr(97))
 # print(ord('a'))
+
+# a_betu = abc[0]
+# print(a_betu)
+# ord(a_betu)
+# print(ord(a_betu))
+
+# betuk = []
+# for i in abc:
+#     betu = int(ord(abc[i]))
+#     betuk.append(betu)
+# print(betuk)
+
+#
+# ascii = []
+# for i in abc:
+#     convert = ord(abc[i])
+#     ascii.append(convert)
+# print(ascii)
+# # ascii = [97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
 
