@@ -32,7 +32,7 @@ pairing(ascii, abc)
 
 # még 10 soronként tördelni kell, de még erre sem találtam megoldást
 
-
+#
 # Kriszti
 # def checkalpha(counter):
 #     if chr(counter).isalpha():
