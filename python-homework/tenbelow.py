@@ -7,7 +7,7 @@
 # Feladat beadása
 # A fent eméített python file-okat és benne a megoldásodat kérlek a saját selenium-py-peldatar github repo forkodban egy python-homework nevű mappába helyezd el.
 
-print("10 feletti számnál a program kiírja a beírt számok összegét, majd kilép.")
+print("10 feletti számnál a program kiírja a beírt számok összegét, majd kilép. ")
 
 number = 0
 sum = 0
