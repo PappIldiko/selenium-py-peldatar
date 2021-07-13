@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e4ef201e60477f57",
-      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/16//#testresult/e4ef201e60477f57",
+      "uid" : "26858747e1d184a",
+      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/17//#testresult/26858747e1d184a",
       "status" : "passed",
       "time" : {
-        "start" : 1626180594278,
-        "stop" : 1626180594279,
-        "duration" : 1
+        "start" : 1626189974888,
+        "stop" : 1626189974888,
+        "duration" : 0
       }
     } ]
   },
@@ -29,12 +29,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6cef691c793c4344",
-      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/16//#testresult/6cef691c793c4344",
+      "uid" : "d28ae4d072b84022",
+      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/17//#testresult/d28ae4d072b84022",
       "status" : "passed",
       "time" : {
-        "start" : 1626180594277,
-        "stop" : 1626180594277,
+        "start" : 1626189974886,
+        "stop" : 1626189974886,
         "duration" : 0
       }
     } ]
@@ -49,12 +49,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "77085bed57692c45",
-      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/16//#testresult/77085bed57692c45",
+      "uid" : "75f47cfc53ef1eea",
+      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/17//#testresult/75f47cfc53ef1eea",
       "status" : "passed",
       "time" : {
-        "start" : 1626180594276,
-        "stop" : 1626180594276,
+        "start" : 1626189974883,
+        "stop" : 1626189974883,
         "duration" : 0
       }
     } ]
@@ -69,12 +69,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "94357a413b9d42cf",
-      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/16//#testresult/94357a413b9d42cf",
+      "uid" : "aa9d98a80bcdbb00",
+      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/17//#testresult/aa9d98a80bcdbb00",
       "status" : "passed",
       "time" : {
-        "start" : 1626180594266,
-        "stop" : 1626180594266,
+        "start" : 1626189974880,
+        "stop" : 1626189974880,
         "duration" : 0
       }
     } ]
