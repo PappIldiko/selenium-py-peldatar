@@ -33,6 +33,16 @@ try:
     export_table_to_csv.click()
     time.sleep(2.0)
 
+    with open('table_in.csv', 'r', encoding="utf-8") as t1:
+        fileone = t1.readlines()
+    with open('C:\\Users\\pappi\\Downloads\\table.csv', 'r', encoding="utf-8") as t2:
+        filetwo = t2.readlines()
+
+    with open('update.csv', 'w', encoding="utf-8") as outFile:
+        for line in filetwo:
+            if line not in fileone:
+                outFile.write(line)
+
 except:
     print("Sg went wrong.")
 
