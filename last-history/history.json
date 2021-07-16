@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e65ee8f42ff8a265",
-      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/22//#testresult/e65ee8f42ff8a265",
+      "uid" : "7e0f2bf7f53b8530",
+      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/23//#testresult/7e0f2bf7f53b8530",
       "status" : "passed",
       "time" : {
-        "start" : 1626355566804,
-        "stop" : 1626355566804,
-        "duration" : 0
+        "start" : 1626426218482,
+        "stop" : 1626426218483,
+        "duration" : 1
       }
     } ]
   },
@@ -29,12 +29,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "50a56bd17019fe15",
-      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/22//#testresult/50a56bd17019fe15",
+      "uid" : "30d47e87ad428498",
+      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/23//#testresult/30d47e87ad428498",
       "status" : "passed",
       "time" : {
-        "start" : 1626355566802,
-        "stop" : 1626355566802,
+        "start" : 1626426218481,
+        "stop" : 1626426218481,
         "duration" : 0
       }
     } ]
@@ -49,12 +49,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8bb0ed7a51d9a1a",
-      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/22//#testresult/8bb0ed7a51d9a1a",
+      "uid" : "8149770251add0c",
+      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/23//#testresult/8149770251add0c",
       "status" : "passed",
       "time" : {
-        "start" : 1626355566799,
-        "stop" : 1626355566799,
+        "start" : 1626426218479,
+        "stop" : 1626426218479,
         "duration" : 0
       }
     } ]
@@ -69,12 +69,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "88a988a8ec9a7c2",
-      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/22//#testresult/88a988a8ec9a7c2",
+      "uid" : "ed21cc0e67c502ec",
+      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/23//#testresult/ed21cc0e67c502ec",
       "status" : "passed",
       "time" : {
-        "start" : 1626355566796,
-        "stop" : 1626355566796,
+        "start" : 1626426218474,
+        "stop" : 1626426218474,
         "duration" : 0
       }
     } ]
