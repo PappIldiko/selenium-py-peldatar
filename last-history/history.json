@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7e0f2bf7f53b8530",
-      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/23//#testresult/7e0f2bf7f53b8530",
+      "uid" : "b1bb5ad6b6a13a3d",
+      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/24//#testresult/b1bb5ad6b6a13a3d",
       "status" : "passed",
       "time" : {
-        "start" : 1626426218482,
-        "stop" : 1626426218483,
-        "duration" : 1
+        "start" : 1626438355821,
+        "stop" : 1626438355821,
+        "duration" : 0
       }
     } ]
   },
@@ -29,12 +29,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "30d47e87ad428498",
-      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/23//#testresult/30d47e87ad428498",
+      "uid" : "3faa293ca9aea758",
+      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/24//#testresult/3faa293ca9aea758",
       "status" : "passed",
       "time" : {
-        "start" : 1626426218481,
-        "stop" : 1626426218481,
+        "start" : 1626438355820,
+        "stop" : 1626438355820,
         "duration" : 0
       }
     } ]
@@ -49,13 +49,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8149770251add0c",
-      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/23//#testresult/8149770251add0c",
+      "uid" : "df9eb8d0507257f5",
+      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/24//#testresult/df9eb8d0507257f5",
       "status" : "passed",
       "time" : {
-        "start" : 1626426218479,
-        "stop" : 1626426218479,
-        "duration" : 0
+        "start" : 1626438355818,
+        "stop" : 1626438355819,
+        "duration" : 1
       }
     } ]
   },
@@ -69,12 +69,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ed21cc0e67c502ec",
-      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/23//#testresult/ed21cc0e67c502ec",
+      "uid" : "d742d1a94e14adf1",
+      "reportUrl" : "https://PappIldiko.github.io/selenium-py-peldatar/24//#testresult/d742d1a94e14adf1",
       "status" : "passed",
       "time" : {
-        "start" : 1626426218474,
-        "stop" : 1626426218474,
+        "start" : 1626438355812,
+        "stop" : 1626438355812,
         "duration" : 0
       }
     } ]
